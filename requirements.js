@@ -29,6 +29,11 @@
 
 // 3.Publications
 // We need an API :-
-// To get all the publications
+// To get all the publications - DONE
 // To get a specific publiication
 // To get a list of publications based on book
+
+// POST Request
+// 1.Add New Book -DONE
+// 2.Add New Publication -DONE
+// 3.Add New Author -DONE
