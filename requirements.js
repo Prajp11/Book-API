@@ -24,7 +24,7 @@
 // 2.Authors
 // We need an API :-
 // To get all the authors - DONE
-// To get a specific author
+// To get a specific author based on id
 // To get a list of authors based on books - DONE
 
 // 3.Publications
@@ -35,5 +35,15 @@
 
 // POST Request
 // 1.Add New Book -DONE
-// 2.Add New Publication -DONE
-// 3.Add New Author -DONE
+// 2.Add New Publication
+// 3.Add New Author
+
+// PUT REQUEST
+// --------------------
+// Update book details if author is changed - DONE
+
+// DELETE REQUEST
+// ---------------------
+// 1.Delete book - DONE
+// 2.Delete author from book
+// 3.Delete author from book and related book from author - DONE
